@@ -1,0 +1,21 @@
+Functionality List- MomsSite Project
+
+Docs for this project:  
+
+DONE:
+ 
+
+CURRENT:
+1. Get Django knowledge enough to where you can build her website shell. So, finish the class
+https://www.pluralsight.com/courses/django-angularjs-web-development and have that down so that you can 
+apply it.
+ 
+
+TODO:
+
+2. Create a basic Django shell to hold Mom's website outline
+3. See if you can work with the front-end stuff that she already has or if it needs to be redesigned a bit
+4. Get it all up on Heroku 
+5. Look for a hosting site to move the production version
+6. Move her domain to that new code
+ 
