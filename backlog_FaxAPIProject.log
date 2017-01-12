@@ -6,9 +6,13 @@ DONE:
 0. Create the basic Django Shell that will house the application calls and handle the callbacks. 
 Issue #1 GitHubProject.  
 
-TODO:
+CURRENT:
 
 1. Implement the most basic Callback handler for the FAX API Callback
+https://github.com/alexmac05/onlinefaxmachine/issues/2
+
+
+TODO:
 
 2. Create a creds.yml file that holds your API Key but is in the gitignore file.
 
