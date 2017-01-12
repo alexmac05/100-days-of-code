@@ -1,0 +1,43 @@
+Functionality List- Fax API Project
+
+Docs for this project: https://faq.hellosign.com/hc/en-us/articles/216809878
+
+DONE:
+0. Create the basic Django Shell that will house the application calls and handle the callbacks. 
+Issue #1 GitHubProject.  
+
+TODO:
+
+1. Implement the most basic Callback handler for the FAX API Callback
+
+2. Create a creds.yml file that holds your API Key but is in the gitignore file.
+
+3. Create a template for index so that you can have a button that when clicked fires off a method in the view. 
+Label the button Account Information. And then show the results of the account information. 
+The response will be a JSON representation of your account settings. Process that and display it to the end user. 
+
+4. Translate the curl call that gets account information into an API call from this Django app. 
+`curl -u"[your username]:[your password]" "https://api.hellofax.com/v1/Accounts/[Your Account GUID]"`
+
+5. Add a button to the front end to Update callback URLs. Accept a copy and paste from ngrok and hit the button and then have
+the backend update the callback URL
+
+6. Add a button on the front end to Find out your fax lines for your account. Hit the button and get the fax lines. 
+Display them to the user.
+
+7. Add a button on the front end to display a list of area codes. Display that information.
+
+8. Build functionality on the front end to upload a file to fax.
+
+9. Send a fax. Get the 200 HTTP response. Verify you got a 200. From the front-end be able to indicate the To and From numbers. 
+Also be able to indicate a file. 
+
+10. Modify the callback handler to deal with all possible status codes that you can test for and then update the front-end with
+a meaningful answer. 
+ 
+11. Add functionality to purchance an additional fax line in an area code that is available.
+
+12. Once you get this far, revisit https://faq.hellosign.com/hc/en-us/articles/216809878 and see if you want to add more 
+functionality
+
+
