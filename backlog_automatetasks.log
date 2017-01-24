@@ -1,0 +1,21 @@
+Functionality List- Automate Tasks Project
+
+Docs for this project:  
+
+DONE:
+ 
+
+CURRENT:
+
+ 
+
+TODO:
+Automate FAX API Troubleshooting
+1. Write a bash script that starts three terminals on the mac. 
+2. Terminal window one should start python virtual envionrment and the online fax server
+3. Terminal window two should start ngrok
+4. Terminal window three should navigate to the ~/Downloads directory
+5. In the ~/Downloads directory have a desktop application running in python that can give you curl calls for various functions 
+for fax api calls. And also setting up the callbacks.
+5. Have the bash script start ngrok's web interface up in chrome to see callbacks.
+6. Have the bash script start up chrome and load the callback page to check that the callback is correct
