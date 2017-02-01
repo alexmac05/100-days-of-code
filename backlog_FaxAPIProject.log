@@ -6,19 +6,21 @@ DONE:
 0. Create the basic Django Shell that will house the application calls and handle the callbacks. 
 Issue #1 GitHubProject.  
 
-CURRENT:
-
 1. Implement the most basic Callback handler for the FAX API Callback
 https://github.com/alexmac05/onlinefaxmachine/issues/2
 
-
-TODO:
-
 2. Create a creds.yml file that holds your API Key but is in the gitignore file.
+
+CURRENT:
+
 
 3. Create a template for index so that you can have a button that when clicked fires off a method in the view. 
 Label the button Account Information. And then show the results of the account information. 
 The response will be a JSON representation of your account settings. Process that and display it to the end user. 
+
+
+TODO:
+
 
 4. Translate the curl call that gets account information into an API call from this Django app. 
 `curl -u"[your username]:[your password]" "https://api.hellofax.com/v1/Accounts/[Your Account GUID]"`
