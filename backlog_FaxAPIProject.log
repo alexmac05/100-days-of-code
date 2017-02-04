@@ -18,18 +18,20 @@ The response will be a JSON representation of your account settings. Process tha
 4. Translate the curl call that gets account information into an API call from this Django app. 
 `curl -u"[your username]:[your password]" "https://api.hellofax.com/v1/Accounts/[Your Account GUID]"`
 
+5. Add a button to the front end to Update callback URLs. Accept a copy and paste from ngrok and hit the button and then have
+the backend update the callback URL (day 6)
+
+
 CURRENT:
 
+6. Add a button on the front end to Find out your fax lines for your account. Hit the button and get the fax lines. 
+Display them to the user. (day 7)
 
-5. Add a button to the front end to Update callback URLs. Accept a copy and paste from ngrok and hit the button and then have
-the backend update the callback URL
 
 
 TODO:
 
 
-6. Add a button on the front end to Find out your fax lines for your account. Hit the button and get the fax lines. 
-Display them to the user.
 
 7. Add a button on the front end to display a list of area codes. Display that information.
 
