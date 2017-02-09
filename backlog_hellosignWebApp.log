@@ -13,4 +13,5 @@ TODO:
 1. Fix up the basic website you have to implement embedded signing Implement 
 in python django the Embedded signature flow in demo form
 
-2. 
+2. Use the get_url with teh GET / files endpoint to host that url in an iframe instead of opening it up in another window a completed
+signature request. 
