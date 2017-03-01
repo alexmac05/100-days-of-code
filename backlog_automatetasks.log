@@ -10,6 +10,12 @@ CURRENT:
  
 
 TODO:
+Automate Google Sheets maint.
+1. use https://developers.google.com/sheets/api/quickstart/python to just see if you can access certain sheets that you need to
+update regularly. If you can read, write from an app then there are tasks that can be automated. 
+
+
+
 Automate FAX API Troubleshooting
 1. Write a bash script that starts three terminals on the mac. 
 2. Terminal window one should start python virtual envionrment and the online fax server
