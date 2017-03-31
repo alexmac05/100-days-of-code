@@ -1,0 +1,18 @@
+Functionality List- Console APP
+
+Docs for this project:  
+
+DONE:
+ 
+
+CURRENT:
+1. Make the console app ready to go for functions when you switch the keys and client id's. 
+a. switch the keys section - this will just be a hardcode switch using creds file
+b. Have another module that will have a class and then instances of the class that will be loaded from a yaml file 
+by you just saying the name of the type of account. So a free account will be marked FREE and then what will be loaded
+will be signature_request ID to implement functions that require that and also template for things that require templates.
+c. this will all be designed for quick settings and use on the fly
+d. this will be designed for quick reproduction of issues and also for quick demos 
+ 
+
+TODO:
