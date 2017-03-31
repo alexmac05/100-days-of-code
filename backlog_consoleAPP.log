@@ -16,3 +16,13 @@ d. this will be designed for quick reproduction of issues and also for quick dem
  
 
 TODO:
+
+2. Automatically change test_mode=True if the account is a free account. Also, have a way to quickly set this all over 
+the app with one flag
+
+3. Have templates on each account that are uniform so that you do not have to spend anytime creating the uniform templates
+ever again. Name them the same, and track the id's in the settings yaml file
+
+4. Back up these yaml files somewhere that is safe to store them 
+
+5. 
