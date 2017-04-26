@@ -1,20 +1,41 @@
 Functionality List- MomsSite Project
 
+Simplify - break it down into its component sections. 
+Small - Use your overall goal as a lighthouse, but break it into small components that can be achieved with a comfortable 
+amount of concentration. 
+Short - timebox 
+Slow - go as slow as you need to go to be mindful
+
+
 Docs for this project:  
 
 DONE:
  
 
 CURRENT:
+1. Get the site as it is now uploaded to github with the correct email address
+ 
+
+TODO:
+
+2. Figure out how to add a navigation bar that you are happy with on that page
+3. Create a blank page for Hunger for salt that is the landing page and move the current landing page to a page one navigates 
+to using the navigation bar
+4. Add the pictures and words content to the Hunger for salt page
+5. Add the video content
+6. Add the events page
+7. Create the events page content
+8. Make sure it is all up and running as well as checked into git hub. Share git hub site with mom for her records.
+
+
+
+
+
 1. Get Django knowledge enough to where you can build her website shell. So, finish the class
 https://www.pluralsight.com/courses/django-angularjs-web-development and have that down so that you can 
 apply it.
 and
 https://www.pluralsight.com/courses/angular-2-getting-started-update
- 
-
-TODO:
-
 2. Create a basic Django shell to hold Mom's website outline
 3. See if you can work with the front-end stuff that she already has or if it needs to be redesigned a bit
 4. Get it all up on Heroku 
