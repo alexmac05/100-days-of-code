@@ -1,5 +1,10 @@
 # I've joined the #100DaysOfCode Challenge.
 
+Simplify - break it down into its component sections.
+Small - Use your overall goal as a lighthouse, but break it into small components that can be achieved with a comfortable amount of concentration. 
+Short - timebox
+Slow - go as slow as you need to go to be mindful
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
