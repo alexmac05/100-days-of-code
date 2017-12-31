@@ -1,4 +1,4 @@
-Functionality List- Fax API Project
+Functionality List- Fax API Project & WEB tester for the HS API
 
 Docs for this project: https://faq.hellosign.com/hc/en-us/articles/216809878
 
@@ -24,13 +24,17 @@ the backend update the callback URL (day 6)
 
 CURRENT:
 
-6. Add a button on the front end to Find out your fax lines for your account. Hit the button and get the fax lines. 
-Display them to the user. (day 7)
+6. Create a senerio where you cause a signature request to pop up immediately and measure the callback, and how long it takes afterwards.
+This simulates a real world examample
 
 
 
 TODO:
 
+x. 
+
+X. Add a button on the front end to Find out your fax lines for your account. Hit the button and get the fax lines. 
+Display them to the user. (day 7)
 
 
 7. Add a button on the front end to display a list of area codes. Display that information.
